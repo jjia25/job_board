@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.content {
+  margin: 10px auto;
+  width: 70%;
+}
+
+.clearfix {
+  overflow: hidden;
+}
+
+.error {
+  background: red;
+  color: white;
+}
+.success {
+  background: green;
+  color: white;
+}
